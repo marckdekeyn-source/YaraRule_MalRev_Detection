@@ -1,7 +1,7 @@
 rule Linux_Ransomware_Malrev_Obfuscated {
     meta:
         description = "Mendeteksi Ransomware Malrev (Varian Obfuscated)"
-        author = "Kelompok_Yenggeeeee"
+        author = "Kelompok_Yenggee"
         date = "2026"
         severity = "Critical"
         note = "Mendeteksi string yang sengaja disisipi karakter 'H' untuk menghindari deteksi standar"
